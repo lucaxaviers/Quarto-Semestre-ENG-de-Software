@@ -1,6 +1,6 @@
 # 🎓 Engenharia de Software — 4º Semestre
 
-Repositório dedicado ao armazenamento e versionamento de todos os projetos, trabalhos e laboratórios práticos desenvolvidos durante o Quarto Semestre do curso de Engenharia de Computação.
+Repositório dedicado ao armazenamento e versionamento de todos os projetos, trabalhos e laboratórios práticos desenvolvidos durante o Quarto Semestre do curso de Engenharia de Software.
 
 ## 📚 Disciplinas Cursadas
 
@@ -35,4 +35,4 @@ Neste repositório, você encontrará diretórios organizados por matéria, refl
 ---
 
 Desenvolvido por **Lucas Xavier**.
-*Elevando o nível técnico e construindo soluções escaláveis e modernas.*
+
