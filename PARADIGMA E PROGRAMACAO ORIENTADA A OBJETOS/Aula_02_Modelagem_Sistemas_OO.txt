@@ -1,0 +1,390 @@
+================================================================================
+MODELAGEM DE SISTEMAS ORIENTADA A OBJETOS
+AULA 01 - VISÃO GERAL
+================================================================================
+
+================================================================================
+ANÁLISE DE REQUISITOS
+================================================================================
+
+DEFINIÇÃO
+────────────────────────────────────────────────────────────────────────────
+Análise de requisitos é a extração, definição e validação das necessidades do
+cliente que devem ser supridas pelo sistema de informação.
+
+Características:
+  • Baseada na comunicação entre analistas de sistemas e usuários
+  • Comunicação é normalmente problemática por limitações cognitivas e
+    diferenças de vocabulário
+
+
+TAREFAS DA ANÁLISE DE REQUISITOS
+────────────────────────────────────────────────────────────────────────────
+  1. Reconhecimento do problema
+  2. Avaliação e síntese
+  3. Modelagem
+  4. Especificação
+  5. Revisão
+
+
+CAPACIDADES NECESSÁRIAS DO ANALISTA
+────────────────────────────────────────────────────────────────────────────
+  • Compreender conceitos abstratos, reorganizá-los em divisões lógicas e
+    sintetizar soluções baseadas em cada divisão
+  • Absorver fatos pertinentes de fontes conflitantes ou confusas
+  • Comunicar-se bem nas formas escrita e verbal
+
+
+LEVANTAMENTO DE REQUISITOS
+────────────────────────────────────────────────────────────────────────────
+Técnicas utilizadas:
+  • Estudo do Sistema existente (software ou não)
+  • Entrevistas
+  • Questionários
+  • Estudo de Normas, Regulamentos e Legislação
+  • Construção de Protótipos
+
+
+PRINCÍPIOS DE UMA BOA ESPECIFICAÇÃO
+────────────────────────────────────────────────────────────────────────────
+  ✓ Precisa, sem ambiguidade
+  ✓ Completa
+  ✓ Verificável
+  ✓ Consistente
+  ✓ Rastreável
+  ✓ Útil também para as fases de Operação e Manutenção
+
+================================================================================
+DOIS MÉTODOS DE ANÁLISE DE REQUISITOS
+================================================================================
+
+  1. ANÁLISE ESTRUTURADA
+     Objetivo: Levantar as funcionalidades do sistema
+
+  2. ANÁLISE ORIENTADA A OBJETOS
+     Objetivo: Descobrir objetos nas necessidades levantadas junto aos
+     processos de negócios
+
+================================================================================
+CONCEITOS FUNDAMENTAIS - ANÁLISE ORIENTADA A OBJETOS
+================================================================================
+
+OBJETO
+────────────────────────────────────────────────────────────────────────────
+  • Representam "coisas" do mundo real
+  • É uma ocorrência específica (instância) de uma classe
+  • Possuem atributos e métodos
+
+
+CLASSE
+────────────────────────────────────────────────────────────────────────────
+  • É uma descrição de um conjunto de objetos
+  • Objetos compartilham os mesmos atributos, operações e relacionamentos
+  • Define o template/molde para criar objetos
+
+
+MENSAGEM
+────────────────────────────────────────────────────────────────────────────
+  • É um sinal enviado de um objeto a outro
+  • Requisita um serviço através da execução de uma operação
+  • Mecanismo de comunicação entre objetos
+
+
+POLIMORFISMO
+────────────────────────────────────────────────────────────────────────────
+  • Palavra originária do grego: "muitas formas"
+  • Tais formas referem-se aos vários comportamentos que uma mesma operação
+    pode assumir
+  • Permite que diferentes objetos respondam de forma diferente à mesma
+    mensagem
+
+
+HERANÇA
+────────────────────────────────────────────────────────────────────────────
+  • Capacidade de um novo objeto tomar atributos e operações de um objeto
+    existente
+  • Permite reutilização de código
+  • Cria hierarquias de classes
+
+================================================================================
+ESPECIFICAÇÃO DE CLASSES
+================================================================================
+
+Exemplo: Classe Tarefa
+────────────────────────────────────────────────────────────────────────────
+
+ATRIBUTOS (dados):
+  • t_id          - Identificador da tarefa
+  • t_name        - Nome da tarefa
+  • cond_inicio   - Condição de início
+  • tempo_duração - Tempo de duração
+
+MÉTODOS (operações):
+  • iniciar()           - Inicia a tarefa
+  • finalizar()         - Finaliza a tarefa
+  • suspender()         - Suspende a tarefa
+  • verif_andamento()   - Verifica andamento
+
+DETALHAMENTO NECESSÁRIO:
+  Atributos:
+    - Natureza do dado
+    - Tamanho de campo
+    - Valores válidos
+
+  Métodos:
+    - Cada operação, condição, etc.
+    - Fluxo de execução
+    - Pré e pós-condições
+
+================================================================================
+UML - UNIFIED MODELING LANGUAGE
+================================================================================
+
+DEFINIÇÃO
+────────────────────────────────────────────────────────────────────────────
+UML é uma linguagem GRÁFICA destinada a:
+  • VISUALIZAR
+  • ESPECIFICAR
+  • CONSTRUIR
+  • DOCUMENTAR
+  
+Os ARTEFATOS de um sistema COMPLEXO de software.
+
+Nota: ARTEFATO = qualquer resultado (produto) de uma atividade
+
+
+HISTÓRICO
+────────────────────────────────────────────────────────────────────────────
+Desenvolvida por:
+  • Grady Booch (Método Booch)
+  • James Rumbaugh (OMT)
+  • Ivar Jacobson (OOSE)
+  • Consolidada pela Rational Software Corporation - USA e IBM (2004)
+
+
+OBJETIVO DOS DIAGRAMAS
+────────────────────────────────────────────────────────────────────────────
+Os diagramas são desenhados para permitir a visualização de um sistema sob
+diferentes perspectivas.
+
+================================================================================
+DIAGRAMAS UML
+================================================================================
+
+DIAGRAMAS ESTRUTURAIS (Estática)
+────────────────────────────────────────────────────────────────────────────
+  • Diagrama de Classes
+  • Diagrama de Objetos
+  • Diagrama de Pacotes
+  • Diagrama de Componentes
+  • Diagrama de Estrutura Composta
+  • Diagrama de Implantação
+
+
+DIAGRAMAS COMPORTAMENTAIS (Dinâmica)
+────────────────────────────────────────────────────────────────────────────
+
+Casos de Uso:
+  • Diagrama de Casos de Uso
+
+Transição de Estados:
+  • Diagrama de Transição de Estados
+  • Diagrama de Atividades
+
+Interação:
+  • Diagrama de Sequência
+  • Diagrama de Colaboração (ou Comunicação)
+  • Diagrama de Interatividade
+  • Diagrama de Tempo
+
+================================================================================
+DIAGRAMA DE CASOS DE USO
+================================================================================
+
+CONCEITO
+────────────────────────────────────────────────────────────────────────────
+  • Os requisitos funcionais do sistema são definidos em termos de casos
+    de uso
+  • Um caso de uso descreve a interação entre o ator e o sistema
+  • Ator: pode ser um usuário, dispositivo ou outro sistema
+  • Na fase de análise, o caso de uso considera o sistema uma CAIXA PRETA
+
+
+CARACTERÍSTICAS
+────────────────────────────────────────────────────────────────────────────
+  • Descreve interações entre ator e sistema
+  • Forma de narrativa composta de:
+    - Entradas do ator
+    - Respostas do sistema
+  • Mostra relacionamentos entre atores
+  • Utiliza estereótipos: <<extend>>, <<include>>
+
+
+COMPONENTES DO DIAGRAMA
+────────────────────────────────────────────────────────────────────────────
+  • Sistema (retângulo central)
+  • Atores (bonecos)
+  • Casos de Uso (elipses dentro do sistema)
+  • Relacionamentos (linhas)
+  • Estereótipos (<<extend>>, <<include>>)
+
+================================================================================
+DIAGRAMA DE SEQUÊNCIA
+================================================================================
+
+OBJETIVO
+────────────────────────────────────────────────────────────────────────────
+Mostra um fluxo de controle temporal que representa a ordem com que os
+métodos de cada classe são invocados.
+
+Em outras palavras, apresenta a SEQUÊNCIA LÓGICA com que cada método do SI
+é invocado.
+
+
+COMPONENTES
+────────────────────────────────────────────────────────────────────────────
+  • Classes do modelo de objetos representadas horizontalmente
+  • Linha vertical para cada classe representando sua fronteira
+  • Setas que indicam a invocação de cada método
+  • Numeração das mensagens indicando ordem de execução
+
+
+FLUXO TEMPORAL
+────────────────────────────────────────────────────────────────────────────
+Tempo flui de cima para baixo no diagrama.
+
+================================================================================
+DIAGRAMA DE COLABORAÇÃO
+================================================================================
+
+OBJETIVO
+────────────────────────────────────────────────────────────────────────────
+Confirmar os resultados apresentados pelo diagrama de sequência.
+
+Mostra as mesmas informações do diagrama de sequência, mas sob uma
+perspectiva de relacionamentos entre objetos.
+
+
+COMPONENTES
+────────────────────────────────────────────────────────────────────────────
+  • Caixas representando classes/objetos
+  • Linhas indicando relacionamentos
+  • Setas numeradas indicando sequência de mensagens
+
+================================================================================
+DIAGRAMA DE COMPONENTES
+================================================================================
+
+CONCEITO
+────────────────────────────────────────────────────────────────────────────
+  • Componentes representam o empacotamento FÍSICO das classes
+  • Define como será o empacotamento
+  • Define onde as classes serão armazenadas
+  • Exibe os relacionamentos entre os componentes de software
+
+
+UTILIDADE
+────────────────────────────────────────────────────────────────────────────
+  • Planejamento de arquitetura física
+  • Distribuição de componentes
+  • Definição de módulos e pacotes
+
+================================================================================
+DIAGRAMA DE ESTADOS
+================================================================================
+
+OBJETIVO
+────────────────────────────────────────────────────────────────────────────
+Mostrar em classes complexas os comportamentos possíveis de seus objetos.
+
+Indica as mudanças de estado que um objeto pode sofrer durante seu ciclo
+de vida.
+
+
+COMPONENTES
+────────────────────────────────────────────────────────────────────────────
+  • Círculos representando estados
+  • Setas representando transições
+  • Rótulos nas setas indicando eventos que disparam a transição
+  • Condições que devem ser satisfeitas
+
+================================================================================
+DIAGRAMA DE ATIVIDADES
+================================================================================
+
+CARACTERÍSTICAS
+────────────────────────────────────────────────────────────────────────────
+  • É um diagrama de Estado especial
+  • Variação dos fluxogramas tradicional
+  • Usado para descrever processos de negócios
+  • Descreve fluxos em que o paralelismo de atividades seja importante
+
+
+COMPONENTES
+────────────────────────────────────────────────────────────────────────────
+  • Atividades (ovais arredondadas)
+  • Transições (setas)
+  • Pontos de decisão (losangos)
+  • Divisões paralelas (barras)
+  • Raias (swimlanes) para atores/departamentos
+
+
+UTILIDADE
+────────────────────────────────────────────────────────────────────────────
+  • Modelar workflows
+  • Demonstrar fluxo de processos
+  • Indicar paralelismo
+  • Mostrar responsabilidades por departamento/ator
+
+================================================================================
+DIAGRAMA DE IMPLANTAÇÃO
+================================================================================
+
+OBJETIVO
+────────────────────────────────────────────────────────────────────────────
+Mostra elementos de configuração de processamento, incluindo o uso FÍSICO
+do sistema considerando:
+  • Computadores
+  • Dispositivos
+  • Interconexões
+
+
+UTILIDADE
+────────────────────────────────────────────────────────────────────────────
+  • Mostrar distribuição física do sistema
+  • Identificar nós computacionais
+  • Demonstrar conectividade
+  • Definir arquitetura de hardware
+
+================================================================================
+PROCESSO DE MODELAGEM
+================================================================================
+
+FLUXO GERAL
+────────────────────────────────────────────────────────────────────────────
+Análise de Requisitos
+        ↓
+    Descrição de Casos de Uso
+        ↓
+    Identificação de Classes
+        ↓
+    Diagrama de Sequência
+        ↓
+    Protótipo de Tela
+        ↓
+    Diagramas Comportamentais
+        ↓
+    Especificação (Projeto/Implementação)
+
+
+FASE ANTERIOR À IMPLEMENTAÇÃO
+────────────────────────────────────────────────────────────────────────────
+  Especificação → Análise → Projeto/Implementação
+
+  Nesta fase (Análise), detalhamos:
+    • Natureza e tamanho de cada campo
+    • Valores válidos
+    • Detalhe de cada operação e condição
+    • Fluxo de execução
+
+================================================================================

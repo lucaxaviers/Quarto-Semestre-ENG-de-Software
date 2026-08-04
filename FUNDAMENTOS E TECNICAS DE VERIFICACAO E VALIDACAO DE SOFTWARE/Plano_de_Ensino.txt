@@ -1,0 +1,347 @@
+================================================================================
+PONTÍFICIA UNIVERSIDADE CATÓLICA DE CAMPINAS
+PLANO DE ENSINO DA DISCIPLINA - 2026/2
+================================================================================
+
+DISCIPLINA:   12544 - FUNDAMENTOS E TÉCNICAS DE VERIFICAÇÃO E 
+              VALIDAÇÃO DE SOFTWARE
+CURSO:        21813 - ENGENHARIA DE SOFTWARE
+
+================================================================================
+1. EMENTA
+================================================================================
+
+Introduz os conceitos de controle e de garantia da qualidade de software,
+conceituando falhas, defeitos, erros, verificação e validação. Estuda processos
+e métodos de revisão, inspeção e teste de software, aplicando suas principais
+técnicas e boas práticas, distinguindo a propriedade da testabilidade.
+Desenvolve testes automatizados.
+
+================================================================================
+2. MACRO E MICRO COMPETÊNCIAS DO CURSO
+================================================================================
+
+COMPETÊNCIA 1 - Profissional
+Eixo Transversal: Computação, Matemática e Produção (SBC)
+────────────────────────────────────────────────────────────────────────────
+Resolver problemas que tenham solução algorítmica, entendendo os limites da
+computação, fundamentos de várias infraestruturas de softwares, softwares como
+sistemas, e as metodologias de engenharia de sistemas. Conhecer algumas
+dimensões quantitativas de problemas e otimizar processos e produtos
+considerando aspectos econômicos e de qualidade.
+
+
+COMPETÊNCIA 2 - Profissional
+Eixo Transversal: Empreendedorismo e Inovação (SBC)
+────────────────────────────────────────────────────────────────────────────
+Empreender de forma inovadora, seja dentro de organizações ou criando novas
+empresas.
+
+
+COMPETÊNCIA 3 - Profissional
+Eixo Transversal: Gerenciamento de Projetos (SBC)
+────────────────────────────────────────────────────────────────────────────
+Entender, aplicar, criar e melhorar processos e métodos envolvidos no
+desenvolvimento de software (requisitos, projeto, construção, teste,
+configuração, qualidade, etc.) em suas várias dimensões e restrições, de modo
+a gerenciar (planejar, coordenar, medir, monitorar, controlar e relatar)
+projetos de software que entreguem produtos de software eficazes e eficientes.
+
+
+COMPETÊNCIA 4 - Profissional
+Eixo Transversal: Requisitos, Análise e Design de Software, Construção e 
+                   Teste de Software (SBC)
+────────────────────────────────────────────────────────────────────────────
+Realizar a elicitação, análise, especificação e validação de requisitos de
+software, bem como sua gestão durante o ciclo de vida do software. Definir o
+projeto (design) arquitetônico e detalhado de um software, visando sua
+construção (criar, reusar e/ou integrar) e avaliação (testar), usando
+tecnologias e ambientes e ferramentas de desenvolvimento de software.
+
+
+COMPETÊNCIA 5 - Profissional
+Eixo Transversal: Qualidade de Software (SBC)
+────────────────────────────────────────────────────────────────────────────
+Produzir software de alta qualidade que estejam em conformidade com seus
+requisitos e satisfaça as necessidades do usuário, envolvendo modelos e
+técnicas de qualidade de produto e de processo de software.
+
+
+COMPETÊNCIA 6 - Humano-Afetiva e Profissional
+────────────────────────────────────────────────────────────────────────────
+Solucionar problemas simples, complexos ou críticos, aplicando em equipes os
+métodos de trabalho que proporcionem o desenvolvimento das relações
+interpessoais, a colaboração e a franca comunicação.
+
+
+COMPETÊNCIA 7 - Humano-Afetiva
+────────────────────────────────────────────────────────────────────────────
+Adaptar-se às demandas de cada contexto com criatividade e resiliência para
+resolução de desafios complexos, superando situações de dificuldade, barreiras,
+impasses e estagnação.
+
+================================================================================
+3. OBJETIVOS DO CONHECIMENTO
+================================================================================
+
+OBJETIVOS (CHA - Competências Derivadas, Habilidades e Atitudes)
+────────────────────────────────────────────────────────────────────────────
+
+Conhecimento e Análise:
+  • Aplicar técnicas de análise, avaliação e revisão de modelos de software
+  • Aplicar técnicas e procedimentos de desenvolvimento, verificação e 
+    validação de software
+  • Aplicar teorias, modelos e técnicas para projetar, desenvolver, 
+    implementar e documentar soluções de software
+  • Detectar falhas de software, em particular as que compõem de sistemas 
+    críticos
+  • Entender os fundamentos das infraestruturas de softwares
+  • Identificar, analisar os problemas e necessidades dos clientes de 
+    software, para desta forma modelar, representar e avaliar as características 
+    do negócio e dos domínios de aplicação, em diversos contextos
+  • Aplicar raciocínio lógico e abstrato
+
+Aplicação de Ferramentas e Métodos:
+  • Aplicar ferramentas, métodos e processos da Engenharia de software
+  • Aplicar métodos para modelar, representar e ensaiar soluções
+  • Selecionar e aplicar tecnologias e ferramentas para desenvolvimento de 
+    software
+  • Construir o software sobre sua infraestrutura
+
+Implementação e Comunicação:
+  • Codificar, avaliar e corrigir programas, aplicando os conceitos 
+    fundamentais para a construção de um programa computacional
+  • Aplicar as formas de comunicação exigidas pela profissão
+  • Caracterizar elementos e modelos de design do software, em diversos 
+    contextos
+
+================================================================================
+4. CONTEÚDOS PROGRAMÁTICOS
+================================================================================
+
+1. VERIFICAÇÃO E VALIDAÇÃO DE SOFTWARE
+────────────────────────────────────────────────────────────────────────────
+  • Conceitos de Verificação e Validação (V&V) e suas aplicações nos processos
+    de desenvolvimento de software
+  • Conceitos de Falha, Defeito, Erro e Erro humano
+  • Atividades dinâmicas vs. estáticas e foco de cada uma na detecção de 
+    falhas e defeitos
+  • O papel de V&V na qualidade de software
+
+
+2. OS FUNDAMENTOS DE TESTE DE SOFTWARE
+   (Atividades Dinâmicas da Qualidade de Software)
+────────────────────────────────────────────────────────────────────────────
+  • Definição e Objetivos do teste de Software
+  • Os Requisitos de Teste e sua relação com os requisitos especificados
+  • Caso de Teste, Dados de Teste (massa de dados), Oráculo, suites e 
+    script de teste
+  • Os tipos (níveis) de Teste: unitário, de integração, de aceitação 
+    (homologação) e de sistema
+  • Teste de regressão, teste de progressão e suas aplicações em métodos 
+    iterativos
+  • Dados brutos, métricas e indicadores providos pelas atividades de teste
+
+
+3. PRINCIPAIS TÉCNICAS DE TESTE DE SOFTWARE
+   Caixa-Preta e Caixa-Branca. Automação de Testes.
+────────────────────────────────────────────────────────────────────────────
+
+Abordagens para o teste:
+  • Estrutural (caixa branca)
+  • Funcional (caixa preta)
+  • Baseadas em mutação
+
+TÉCNICAS CAIXA PRETA (Funcionais):
+  • Particionamento de Equivalência
+  • Análise de Valores de Fronteira (BVA)
+  • Tabelas de Decisão
+  • Testes End-to-End:
+    - Baseado em informações de casos de uso e de user stories
+    - Thread Testing
+    - Teste de Cenários
+
+TÉCNICAS CAIXA BRANCA (Estruturais):
+  • Teste de nós, arcos e caminhos
+  • Teste de caminhos baseado no fluxo de dados
+
+AUTOMAÇÃO:
+  • JUnit para automação de teste Unitários
+  • Exercícios Práticos de aplicação de Técnicas de Teste de software
+  • Automação de Teste Unitários
+
+
+4. OS FUNDAMENTOS DAS ATIVIDADES ESTÁTICAS DA QUALIDADE DE SOFTWARE
+────────────────────────────────────────────────────────────────────────────
+  • O modelo "V" de teste na perspectiva das atividades estáticas e 
+    antecipação da descoberta de defeitos no software
+  • As vantagens e desvantagens das atividades estáticas
+  • Aprofundamentos da aplicação das propriedades de modelos e artefatos de 
+    software: correção, completitude, consistência
+
+
+5. OUTRAS ATIVIDADES ESTÁTICAS E DINÂMICAS
+   Verificação e Validação de Software
+────────────────────────────────────────────────────────────────────────────
+
+Revisão dos Conceitos e justificativas das Revisões e Inspeções de Software:
+
+Principais técnicas:
+  • Leitura e desk checking
+  • Inspeções e Revisões Técnicas formais
+  • Revisões pelos pares
+  • Walkthroughs
+
+
+6. TAXONOMIA E REPORTE DE FALHAS E CLASSIFICAÇÃO DE DEFEITOS
+────────────────────────────────────────────────────────────────────────────
+  • Taxonomias de defeitos, por tipo e severidade
+  • Outras medições e dados brutos providos pelas atividades de teste
+  • Métricas derivadas de dados de teste: yield, gap de defeitos, densidade 
+    de defeitos e outras
+
+
+7. EXERCÍCIOS PRÁTICOS DE APLICAÇÃO DE TÉCNICAS DE TESTE DE SOFTWARE
+────────────────────────────────────────────────────────────────────────────
+  • Aplicação prática de técnicas apresentadas
+  • Pair programming como prática de qualidade de software
+
+================================================================================
+5. METODOLOGIA
+================================================================================
+
+Abordagens Pedagógicas:
+  • Aulas dialogadas e expositivas, ou invertidas, para desenvolvimento de 
+    conceitos e aspectos teóricos
+  • Aprendizagem baseada em projetos - problemas propostos em atividades 
+    Somativas, para consolidação das habilidades práticas, conteúdos e 
+    conceitos
+
+Estratégias de Ensino-Aprendizagem:
+  • Aulas expositivas dialogadas
+  • Aulas invertidas
+  • Aprendizagem baseada em projetos
+  • Atividades somativas práticas e teóricas
+  • Pair programming
+
+================================================================================
+6. AVALIAÇÃO DO PROCESSO DE APRENDIZAGEM
+================================================================================
+
+6.1 CRITÉRIOS DE AVALIAÇÃO
+────────────────────────────────────────────────────────────────────────────
+
+FÓRMULA GERAL:
+
+Média Final = 20% Atividades Somativas + 70% PC + 10% Projeto Integrador
+
+Onde:
+  PC = Médias de Testes/Provas Individuais
+
+OBSERVAÇÃO IMPORTANTE:
+  "O Professor poderá verificar ou arguir, por escrito, oralmente ou como 
+   componente de banca, qualquer resultado produzido por qualquer aluno nos 
+   instrumentos de avaliação previstos no plano de ensino, individualmente 
+   ou em times/equipes".
+
+
+6.2 INSTRUMENTOS DE AVALIAÇÃO
+────────────────────────────────────────────────────────────────────────────
+  • Provas/Testes Individuais
+  • Atividades Somativas (para nota) e Formativas (sem composição de média)
+    - Exercícios
+    - Testes
+    - Estudos de caso
+    - Teóricas e/ou práticas
+    - Pesos distintos conforme complexidade da proposta
+  • Acompanhamento dos testes no contexto solicitado no projeto integrador
+
+
+6.3 ESTRATÉGIAS DE RECUPERAÇÃO
+────────────────────────────────────────────────────────────────────────────
+
+Recuperação de Atividades Somativas:
+  • Comentários, correção e discussão sobre os erros mais cometidos
+  • Discussão sobre possíveis soluções em sala de aula
+  • Um exercício adicional será aplicado ao final do semestre, se necessário 
+    segundo os resultados da classe
+  • Substituição da menor nota dentre as obtidas nas atividades somativas do 
+    semestre
+
+Recuperação de Provas:
+  • A nota de prova/teste individual poderá ser substituída por outra obtida 
+    em prova/teste substitutiva
+  • Prova substitutiva aplicada logo após os comentários e revisão da nota
+
+OBSERVAÇÃO:
+  • Pair programming como prática de qualidade de software
+
+================================================================================
+7. BIBLIOGRAFIA BÁSICA
+================================================================================
+
+1. DELAMARO, Márcio Eduardo; MALDONADO, José Carlos; JINO, Mario (Org).
+   Introdução ao teste de software. 2. ed. Rio de Janeiro, RJ: Elsevier, 2016.
+   xii, 430 p. (Série Sociedade brasileira de computação).
+   ISBN 9788535283525 (broch.).
+
+2. VINCENZI, Auri Marcelo Rizzo et al.
+   Automatização de teste de software com ferramentas de software livre.
+   Rio de Janeiro: Elsevier, 2018. xiv, 241p.
+   (SBC - Sociedade Brasileira de Computação).
+   ISBN 97885352687288 (broch.).
+
+3. PRESSMAN, Roger S.
+   Engenharia de software: uma abordagem profissional.
+   Porto Alegre, RS: AMGH, 2016. 940 p.
+   ISBN 9788580555332 (broch.).
+
+================================================================================
+8. BIBLIOGRAFIA COMPLEMENTAR
+================================================================================
+
+1. BEIZER, Boris.
+   Black-box testing: techniques for functional testing of software and 
+   systems. New York: John Wiley & Sons, 1995. 293 p.
+   ISBN 0471120944.
+
+2. BASTOS, Aderson et al.
+   Base de conhecimento em teste de software. 3. ed. São Paulo, SP: Martins 
+   Fontes, 2012. 263 p.
+   ISBN 9788580630534 (broch.).
+
+3. TIAN, Jeff.
+   Software quality engineering: Testing, quality assurance, and quantifiable 
+   improvement. Hoboken, N.J.: Wiley, c2005. 1 online resource (xxvi, 412 p.).
+   ISBN 0471722324 (electronic bk.)
+   Disponível em: 
+   <http://ieeexplore.ieee.org/servlet/opac?bknumber=5988897>
+   Acesso em: 18 agosto 2020.
+
+4. BOURQUE, Pierre; FAIRLEY, R. E. (Ed.).
+   Guide to the software engineering body of knowledge: version 3.0 SWEBOK.
+   Piscataway: IEEE Computer Society, 2014. 1v. (não paginado)
+   ISBN 9780769551661 (broch.).
+
+5. EVERETT, Gerald D.; MCLEOD, Raymond.
+   Software testing: testing across the entire software development life 
+   cycle. Piscataway, NJ: IEEE Press; Hoboken, N.J.: Wiley-Interscience, 
+   c2007. 1 online resource (xv, 261 p.).
+
+================================================================================
+9. INFRAESTRUTURA E INSTALAÇÕES
+================================================================================
+
+Recursos Disponíveis:
+  • Sala de aula equipada, preferencialmente sala de aula flexível
+  • Uso eventual de LABI (Laboratório de Aprendizagem Baseada em Inovação)
+  • Ambiente CANVAS (plataforma virtual de aprendizagem)
+
+Ambientes:
+  • Laboratório de informática
+  • Ferramentas de desenvolvimento (JUnit e ferramentas de teste)
+  • Ambiente de colaboração remota (se necessário)
+
+================================================================================
+FIM DO PLANO DE ENSINO
+================================================================================
