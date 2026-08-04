@@ -35,4 +35,4 @@ Neste repositório, você encontrará diretórios organizados por matéria, refl
 ---
 
 Desenvolvido por **Lucas Xavier**.
-*Elevando o nível técnico e construindo soluções escaláveis e modernas.*
+
