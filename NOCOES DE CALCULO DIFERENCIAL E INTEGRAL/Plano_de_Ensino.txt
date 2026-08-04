@@ -1,0 +1,149 @@
+================================================================================
+NOÇÕES DE CÁLCULO DIFERENCIAL E INTEGRAL
+PLANO DE ENSINO - 2026/2
+================================================================================
+
+================================================================================
+APRESENTAÇÃO
+================================================================================
+
+Sejam muito bem-vindos! Um ótimo semestre!
+
+================================================================================
+1. EMENTA
+================================================================================
+
+Apresenta conceitos, aplicações e interpretações gráficas de limites, derivada
+e integral, com ênfase na integração numérica, com uso de software
+computacional.
+
+Objetos de Conhecimento:
+  • Funções de uma variável real
+  • Limite
+  • Derivada
+  • Integral
+
+================================================================================
+2. METODOLOGIA
+================================================================================
+
+  • Aulas expositivas e dialogadas
+  • Disponibilização de material didático e listas de exercícios no Canvas
+  • Disponibilização de slides com apresentação das aulas no Canvas
+  • Realização de atividades individuais ou em grupos
+
+================================================================================
+3. AVALIAÇÃO DO PROCESSO DE APRENDIZAGEM
+================================================================================
+
+3.1 INSTRUMENTOS DE AVALIAÇÃO
+────────────────────────────────────────────────────────────────────────────
+  • Duas provas individuais e presenciais: P1 e P2 (valor de 0 a 10 pontos)
+  • Atividades (valor de 0 a 10 pontos)
+    A = média aritmética de todas as atividades
+
+
+3.2 CRITÉRIO DE AVALIAÇÃO
+────────────────────────────────────────────────────────────────────────────
+
+CÁLCULO DA MÉDIA:
+
+    MF = 0,35 × P1 + 0,50 × P2 + 0,15 × A
+
+Onde:
+  P1 = Prova 1 (35%)
+  P2 = Prova 2 (50%)
+  A  = Média de Atividades (15%)
+
+
+3.3 RECUPERAÇÃO
+────────────────────────────────────────────────────────────────────────────
+  • Alunos com desempenho insatisfatório (MF < 5,0) poderão realizar 
+    uma prova P3 de recuperação
+  • A nota de P3 substituirá a menor nota entre P1 e P2
+  • Exigência mínima para aprovação: 75% de frequência e aproveitamento mínimo 
+    de 50%
+
+OBSERVAÇÃO IMPORTANTE:
+  Faltas em provas requerem requerimento no sistema, justificando o motivo 
+  com atestado e/ou documentos, solicitando prova de 2ª chamada.
+
+
+3.4 DATAS DAS AVALIAÇÕES
+────────────────────────────────────────────────────────────────────────────
+  • P1 (35%) - 29/09/2026
+  • P2 (50%) - 24/11/2026
+  • P3 (Recuperação) - 01/12/2026
+
+================================================================================
+4. INFORMAÇÕES IMPORTANTES
+================================================================================
+
+  ⚠ Os critérios de avaliação serão avaliados e aprovados pelo Conselho de
+    Faculdade. Caso haja necessidade de adequação/alteração, este arquivo 
+    será atualizado e os alunos devidamente informados.
+
+  ⚠ A prova de recuperação será disponibilizada apenas para alunos que não
+    estiverem reprovados por frequência (mínimo 75% de presença).
+
+  ⚠ Monitoria disponível durante o semestre
+
+================================================================================
+5. CRONOGRAMA PROPOSTO
+================================================================================
+
+SEMANA  DATA         ATIVIDADE
+────────────────────────────────────────────────────────────────────────────
+1       04/08/2026   Apresentação do Plano de Ensino + Funções
+2       11/08/2026   Funções
+3       18/08/2026   Funções
+4       25/08/2026   Limites
+5       01/09/2026   Limites
+6       08/09/2026   Derivada
+7       15/09/2026   Derivada
+8       22/09/2026   Derivada
+9       29/09/2026   ⭐ PROVA 1
+10      06/10/2026   Derivada - Aplicações
+11      13/10/2026   Derivada - Aplicações
+12      20/10/2026   Derivada - Aplicações
+13      27/10/2026   Integral Indefinida
+14      03/11/2026   Integral Definida - Teorema Fundamental do Cálculo
+15      10/11/2026   Integral - Método da Substituição
+16      17/11/2026   Derivada e Integral - Exercícios
+17      24/11/2026   ⭐ PROVA 2
+18      01/12/2026   ⭐ P3 - Prova de Recuperação / Prova de 2ª chamada
+19      08/12/2026   FERIADO
+        15/12/2026   Encerramento
+
+================================================================================
+6. BIBLIOGRAFIA
+================================================================================
+
+BIBLIOGRAFIA BÁSICA
+────────────────────────────────────────────────────────────────────────────
+1. STEWART, J.
+   Cálculo, v. 1. São Paulo: Pioneira Thompson Learning, 2002.
+
+2. ANTON, H.
+   Cálculo: um novo horizonte., v.1, Porto Alegre: Bookman, 2000.
+
+3. FLEMMING, D.M. & GONÇALVES, M.B.
+   Cálculo A: funções, limite, derivação, integração.
+   São Paulo: Makron, 1992.
+
+
+BIBLIOGRAFIA COMPLEMENTAR
+────────────────────────────────────────────────────────────────────────────
+1. SWOKOWSKI, E.W.
+   Cálculo com geometria analítica. São Paulo: Makron, 1994. V.1.
+
+2. EDWARDS, C. H.; PENNEY, D.E. C.
+   Cálculo com geometria analítica. Rio de Janeiro: Prentice-Hall do Brasil, 1997.
+
+3. GUIDORIZZI, H.L.
+   Um curso de Cálculo, v.1. São Paulo: LTC, 2002.
+
+4. MUNEM, M. A.; FOLIS, D.
+   Cálculo, v.1, Rio de Janeiro: LTC, 1978.
+
+================================================================================
