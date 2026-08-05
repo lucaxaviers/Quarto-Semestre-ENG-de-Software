@@ -17,7 +17,7 @@
 
 ## 2. Hierarquia do Atlas (o que vocês criaram)
 
-![Hierarquia MongoDB Atlas — quadrados aninhados](./hierarquia-mongodb.png)
+![Hierarquia Visual](./hierarquia-visual.png)
 
 *(Dentro do Banco de dados ficam as Coleções, e dentro de cada Coleção ficam os Documentos — são vários itens, por isso não dá pra desenhar como quadrado fixo, mas seguem a mesma lógica de "dentro de".)*
 
