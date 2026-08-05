@@ -1,0 +1,73 @@
+# Aula 01 — 03/08/2026
+
+## 1º Trabalho
+
+Requisitos:
+- Manter um caderno físico manuscrito, organizado e completo
+- Conteúdos datados e em ordem cronológica
+- Escrever em tablet usando caneta é aceitável
+
+## Objeto monolítico x objeto modular
+
+### Objeto monolítico
+Características:
+- É uma peça única, sem divisões internas
+- Não pode ser desmontado em partes menores sem destruir ou danificar
+
+Exemplos:
+- Citados em aula: borracha, pratos
+- Outros: bloco de motor fundido em peça única
+- Escultura esculpida de um bloco só
+- Software feito como um bloco único de código (sem módulos)
+
+### Objeto modular
+Características:
+- Composto por partes independentes (módulos) que se encaixam
+- Pode ser desmontado, trocado ou combinado sem destruir o conjunto
+- Partes independentes e substituíveis
+
+Exemplos:
+- Móveis modulares (troca uma peça do armário)
+- PC (troca a placa de vídeo sem trocar o resto)
+- Software feito em módulos/microsserviços
+
+### Diferença central
+- Monolítico: tudo unificado e interdependente, não dá para separar em partes
+- Modular: partes independentes e substituíveis
+
+## Sistema de avaliação
+
+Componentes de avaliação:
+- 2 provas regulares: P1 e P2
+- 1 prova facultativa de recuperação: REC
+- 3 notas práticas: T1, T2 e T3
+
+### Cálculo das médias
+
+1. Média Teórica (MTeo):
+
+```
+MTeo = (P1 + 2×P2) / 3
+
+Se MTeo < 5:
+    MTeo = (MTeo + REC) / 2
+```
+
+2. Média Prática (MPrat):
+
+```
+MPrat = (T1 + 2×T2 + 2×T3) / 5
+```
+
+3. Média Final (MFinal):
+
+```
+Se MTeo ≥ 5 E MPrat ≥ 5:
+    MFinal = 0,6×MTeo + 0,3×MPrat + 0,1×AT
+Senão:
+    MFinal = menor valor entre MTeo e MPrat
+```
+
+### Observações importantes
+- ⚠ Não há recuperação para a parte prática
+- ⚠ Garantir que a nota não despenque: negociar prazos e descontos com o professor ANTES de vencer o prazo
