@@ -1,0 +1,661 @@
+[
+  {
+    "codigo": "12490-P",
+    "nome": "Estudos de Bancos de Dados 2 - Prática",
+    "cargaHorariaTotal": 40,
+    "curso": "Engenharia de Software",
+    "periodo": 4,
+    "anoCalendario": 2026,
+    "semestreCalendario": 2,
+    "turmas": [
+      {
+        "codigo": "0101",
+        "qtdeInicialDeMatriculados": 30,
+        "qtdeAtualDeMatriculados": 29,
+        "trancamentos": 0,
+        "desistencias": 0,
+        "transferencias": 1,
+        "docente": {
+          "RP": "4567890",
+          "nome": "Steve Jobs"
+        },
+        "agendaDeAulas": [
+          {
+            "dataHoraInicio": "2026-08-01T08:00:00",
+            "dataHoraFim": "2026-08-01T09:40:00",
+            "qtdeHorasAula": 2
+          },
+          {
+            "dataHoraInicio": "2026-08-07T08:00:00",
+            "dataHoraFim": "2026-08-07T09:40:00",
+            "qtdeHorasAula": 2
+          }
+        ]
+      },
+      {
+        "codigo": "0102",
+        "qtdeInicialDeMatriculados": 40,
+        "qtdeAtualDeMatriculados": 40,
+        "trancamentos": 0,
+        "desistencias": 0,
+        "transferencias": 0,
+        "docente": {
+          "RP": "890392",
+          "nome": "Ada Lovelace"
+        },
+        "agendaDeAulas": [
+          {
+            "dataHoraInicio": "2026-08-02T10:00:00",
+            "dataHoraFim": "2026-08-02T11:40:00",
+            "qtdeHorasAula": 2
+          },
+          {
+            "dataHoraInicio": "2026-08-08T10:00:00",
+            "dataHoraFim": "2026-08-08T11:40:00",
+            "qtdeHorasAula": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "12491-P",
+    "nome": "Algoritmos e Estruturas de Dados",
+    "cargaHorariaTotal": 40,
+    "curso": "Engenharia de Software",
+    "periodo": 4,
+    "anoCalendario": 2026,
+    "semestreCalendario": 2,
+    "turmas": [
+      {
+        "codigo": "0201",
+        "qtdeInicialDeMatriculados": 30,
+        "qtdeAtualDeMatriculados": 30,
+        "trancamentos": 0,
+        "desistencias": 0,
+        "transferencias": 0,
+        "docente": {
+          "RP": "112200",
+          "nome": "Alan Turing"
+        },
+        "agendaDeAulas": [
+          {
+            "dataHoraInicio": "2026-08-03T08:00:00",
+            "dataHoraFim": "2026-08-03T09:40:00",
+            "qtdeHorasAula": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "12492-P",
+    "nome": "Programação Web",
+    "cargaHorariaTotal": 40,
+    "curso": "Engenharia de Software",
+    "periodo": 4,
+    "anoCalendario": 2026,
+    "semestreCalendario": 2,
+    "turmas": [
+      {
+        "codigo": "0202",
+        "qtdeInicialDeMatriculados": 32,
+        "qtdeAtualDeMatriculados": 32,
+        "trancamentos": 0,
+        "desistencias": 0,
+        "transferencias": 0,
+        "docente": {
+          "RP": "112201",
+          "nome": "Margaret Hamilton"
+        },
+        "agendaDeAulas": [
+          {
+            "dataHoraInicio": "2026-08-04T10:00:00",
+            "dataHoraFim": "2026-08-04T11:40:00",
+            "qtdeHorasAula": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "12493-P",
+    "nome": "Banco de Dados I",
+    "cargaHorariaTotal": 40,
+    "curso": "Ciência da Computação",
+    "periodo": 3,
+    "anoCalendario": 2026,
+    "semestreCalendario": 2,
+    "turmas": [
+      {
+        "codigo": "0203",
+        "qtdeInicialDeMatriculados": 35,
+        "qtdeAtualDeMatriculados": 35,
+        "trancamentos": 0,
+        "desistencias": 0,
+        "transferencias": 0,
+        "docente": {
+          "RP": "112202",
+          "nome": "Linus Torvalds"
+        },
+        "agendaDeAulas": [
+          {
+            "dataHoraInicio": "2026-08-05T08:00:00",
+            "dataHoraFim": "2026-08-05T09:40:00",
+            "qtdeHorasAula": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "12494-P",
+    "nome": "Engenharia de Requisitos",
+    "cargaHorariaTotal": 40,
+    "curso": "Sistemas de Informação",
+    "periodo": 5,
+    "anoCalendario": 2026,
+    "semestreCalendario": 2,
+    "turmas": [
+      {
+        "codigo": "0204",
+        "qtdeInicialDeMatriculados": 30,
+        "qtdeAtualDeMatriculados": 30,
+        "trancamentos": 0,
+        "desistencias": 0,
+        "transferencias": 0,
+        "docente": {
+          "RP": "112203",
+          "nome": "Grace Hopper"
+        },
+        "agendaDeAulas": [
+          {
+            "dataHoraInicio": "2026-08-06T09:00:00",
+            "dataHoraFim": "2026-08-06T10:40:00",
+            "qtdeHorasAula": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "12495-P",
+    "nome": "Arquitetura de Software",
+    "cargaHorariaTotal": 40,
+    "curso": "Engenharia de Software",
+    "periodo": 5,
+    "anoCalendario": 2026,
+    "semestreCalendario": 2,
+    "turmas": [
+      {
+        "codigo": "0205",
+        "qtdeInicialDeMatriculados": 36,
+        "qtdeAtualDeMatriculados": 36,
+        "trancamentos": 0,
+        "desistencias": 0,
+        "transferencias": 0,
+        "docente": {
+          "RP": "112204",
+          "nome": "Tim Berners-Lee"
+        },
+        "agendaDeAulas": [
+          {
+            "dataHoraInicio": "2026-08-07T09:00:00",
+            "dataHoraFim": "2026-08-07T10:40:00",
+            "qtdeHorasAula": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "12496-P",
+    "nome": "Redes de Computadores",
+    "cargaHorariaTotal": 40,
+    "curso": "Ciência da Computação",
+    "periodo": 4,
+    "anoCalendario": 2026,
+    "semestreCalendario": 2,
+    "turmas": [
+      {
+        "codigo": "0206",
+        "qtdeInicialDeMatriculados": 34,
+        "qtdeAtualDeMatriculados": 34,
+        "trancamentos": 0,
+        "desistencias": 0,
+        "transferencias": 0,
+        "docente": {
+          "RP": "112205",
+          "nome": "Donald Knuth"
+        },
+        "agendaDeAulas": [
+          {
+            "dataHoraInicio": "2026-08-08T14:00:00",
+            "dataHoraFim": "2026-08-08T15:40:00",
+            "qtdeHorasAula": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "12497-P",
+    "nome": "Sistemas Operacionais",
+    "cargaHorariaTotal": 40,
+    "curso": "Engenharia de Software",
+    "periodo": 5,
+    "anoCalendario": 2026,
+    "semestreCalendario": 2,
+    "turmas": [
+      {
+        "codigo": "0207",
+        "qtdeInicialDeMatriculados": 31,
+        "qtdeAtualDeMatriculados": 31,
+        "trancamentos": 0,
+        "desistencias": 0,
+        "transferencias": 0,
+        "docente": {
+          "RP": "112206",
+          "nome": "Guido van Rossum"
+        },
+        "agendaDeAulas": [
+          {
+            "dataHoraInicio": "2026-08-09T08:00:00",
+            "dataHoraFim": "2026-08-09T09:40:00",
+            "qtdeHorasAula": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "12498-P",
+    "nome": "Computação Gráfica",
+    "cargaHorariaTotal": 40,
+    "curso": "Engenharia de Software",
+    "periodo": 6,
+    "anoCalendario": 2026,
+    "semestreCalendario": 2,
+    "turmas": [
+      {
+        "codigo": "0208",
+        "qtdeInicialDeMatriculados": 28,
+        "qtdeAtualDeMatriculados": 28,
+        "trancamentos": 0,
+        "desistencias": 0,
+        "transferencias": 0,
+        "docente": {
+          "RP": "112207",
+          "nome": "James Gosling"
+        },
+        "agendaDeAulas": [
+          {
+            "dataHoraInicio": "2026-08-10T10:00:00",
+            "dataHoraFim": "2026-08-10T11:40:00",
+            "qtdeHorasAula": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "12499-P",
+    "nome": "Linguagens Formais",
+    "cargaHorariaTotal": 40,
+    "curso": "Ciência da Computação",
+    "periodo": 5,
+    "anoCalendario": 2026,
+    "semestreCalendario": 2,
+    "turmas": [
+      {
+        "codigo": "0209",
+        "qtdeInicialDeMatriculados": 29,
+        "qtdeAtualDeMatriculados": 29,
+        "trancamentos": 0,
+        "desistencias": 0,
+        "transferencias": 0,
+        "docente": {
+          "RP": "112208",
+          "nome": "Dennis Ritchie"
+        },
+        "agendaDeAulas": [
+          {
+            "dataHoraInicio": "2026-08-11T08:00:00",
+            "dataHoraFim": "2026-08-11T09:40:00",
+            "qtdeHorasAula": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "12500-P",
+    "nome": "Segurança da Informação",
+    "cargaHorariaTotal": 40,
+    "curso": "Sistemas de Informação",
+    "periodo": 5,
+    "anoCalendario": 2026,
+    "semestreCalendario": 2,
+    "turmas": [
+      {
+        "codigo": "0210",
+        "qtdeInicialDeMatriculados": 33,
+        "qtdeAtualDeMatriculados": 33,
+        "trancamentos": 0,
+        "desistencias": 0,
+        "transferencias": 0,
+        "docente": {
+          "RP": "112209",
+          "nome": "Hedy Lamarr"
+        },
+        "agendaDeAulas": [
+          {
+            "dataHoraInicio": "2026-08-12T09:00:00",
+            "dataHoraFim": "2026-08-12T10:40:00",
+            "qtdeHorasAula": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "12501-P",
+    "nome": "Teoria dos Grafos",
+    "cargaHorariaTotal": 40,
+    "curso": "Ciência da Computação",
+    "periodo": 4,
+    "anoCalendario": 2026,
+    "semestreCalendario": 2,
+    "turmas": [
+      {
+        "codigo": "0211",
+        "qtdeInicialDeMatriculados": 27,
+        "qtdeAtualDeMatriculados": 27,
+        "trancamentos": 0,
+        "desistencias": 0,
+        "transferencias": 0,
+        "docente": {
+          "RP": "112210",
+          "nome": "John von Neumann"
+        },
+        "agendaDeAulas": [
+          {
+            "dataHoraInicio": "2026-08-13T08:00:00",
+            "dataHoraFim": "2026-08-13T09:40:00",
+            "qtdeHorasAula": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "12502-P",
+    "nome": "Estruturas de Dados Avançadas",
+    "cargaHorariaTotal": 40,
+    "curso": "Engenharia de Software",
+    "periodo": 6,
+    "anoCalendario": 2026,
+    "semestreCalendario": 2,
+    "turmas": [
+      {
+        "codigo": "0212",
+        "qtdeInicialDeMatriculados": 35,
+        "qtdeAtualDeMatriculados": 35,
+        "trancamentos": 0,
+        "desistencias": 0,
+        "transferencias": 0,
+        "docente": {
+          "RP": "112211",
+          "nome": "Barbara Liskov"
+        },
+        "agendaDeAulas": [
+          {
+            "dataHoraInicio": "2026-08-14T10:00:00",
+            "dataHoraFim": "2026-08-14T11:40:00",
+            "qtdeHorasAula": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "12503-P",
+    "nome": "Inteligência Artificial",
+    "cargaHorariaTotal": 60,
+    "curso": "Ciência da Computação",
+    "periodo": 6,
+    "anoCalendario": 2026,
+    "semestreCalendario": 2,
+    "turmas": [
+      {
+        "codigo": "0213",
+        "qtdeInicialDeMatriculados": 40,
+        "qtdeAtualDeMatriculados": 40,
+        "trancamentos": 0,
+        "desistencias": 0,
+        "transferencias": 0,
+        "docente": {
+          "RP": "112212",
+          "nome": "Evelyn Boyd Granville"
+        },
+        "agendaDeAulas": [
+          {
+            "dataHoraInicio": "2026-08-15T09:00:00",
+            "dataHoraFim": "2026-08-15T10:40:00",
+            "qtdeHorasAula": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "12504-P",
+    "nome": "Desenvolvimento Mobile",
+    "cargaHorariaTotal": 40,
+    "curso": "Engenharia de Software",
+    "periodo": 5,
+    "anoCalendario": 2026,
+    "semestreCalendario": 2,
+    "turmas": [
+      {
+        "codigo": "0214",
+        "qtdeInicialDeMatriculados": 29,
+        "qtdeAtualDeMatriculados": 29,
+        "trancamentos": 0,
+        "desistencias": 0,
+        "transferencias": 0,
+        "docente": {
+          "RP": "112213",
+          "nome": "Richard Stallman"
+        },
+        "agendaDeAulas": [
+          {
+            "dataHoraInicio": "2026-08-16T08:00:00",
+            "dataHoraFim": "2026-08-16T09:40:00",
+            "qtdeHorasAula": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "12505-P",
+    "nome": "Linguagem de Programação II",
+    "cargaHorariaTotal": 40,
+    "curso": "Engenharia de Software",
+    "periodo": 3,
+    "anoCalendario": 2026,
+    "semestreCalendario": 2,
+    "turmas": [
+      {
+        "codigo": "0215",
+        "qtdeInicialDeMatriculados": 37,
+        "qtdeAtualDeMatriculados": 37,
+        "trancamentos": 0,
+        "desistencias": 0,
+        "transferencias": 0,
+        "docente": {
+          "RP": "112214",
+          "nome": "Bjarne Stroustrup"
+        },
+        "agendaDeAulas": [
+          {
+            "dataHoraInicio": "2026-08-17T09:00:00",
+            "dataHoraFim": "2026-08-17T10:40:00",
+            "qtdeHorasAula": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "12506-P",
+    "nome": "Compiladores",
+    "cargaHorariaTotal": 40,
+    "curso": "Ciência da Computação",
+    "periodo": 6,
+    "anoCalendario": 2026,
+    "semestreCalendario": 2,
+    "turmas": [
+      {
+        "codigo": "0216",
+        "qtdeInicialDeMatriculados": 30,
+        "qtdeAtualDeMatriculados": 30,
+        "trancamentos": 0,
+        "desistencias": 0,
+        "transferencias": 0,
+        "docente": {
+          "RP": "112215",
+          "nome": "Brian Kernighan"
+        },
+        "agendaDeAulas": [
+          {
+            "dataHoraInicio": "2026-08-18T10:00:00",
+            "dataHoraFim": "2026-08-18T11:40:00",
+            "qtdeHorasAula": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "12507-P",
+    "nome": "Banco de Dados II",
+    "cargaHorariaTotal": 40,
+    "curso": "Sistemas de Informação",
+    "periodo": 6,
+    "anoCalendario": 2026,
+    "semestreCalendario": 2,
+    "turmas": [
+      {
+        "codigo": "0217",
+        "qtdeInicialDeMatriculados": 28,
+        "qtdeAtualDeMatriculados": 28,
+        "trancamentos": 0,
+        "desistencias": 0,
+        "transferencias": 0,
+        "docente": {
+          "RP": "112216",
+          "nome": "Margo Seltzer"
+        },
+        "agendaDeAulas": [
+          {
+            "dataHoraInicio": "2026-08-19T08:00:00",
+            "dataHoraFim": "2026-08-19T09:40:00",
+            "qtdeHorasAula": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "12508-P",
+    "nome": "Processamento de Imagens",
+    "cargaHorariaTotal": 40,
+    "curso": "Ciência da Computação",
+    "periodo": 5,
+    "anoCalendario": 2026,
+    "semestreCalendario": 2,
+    "turmas": [
+      {
+        "codigo": "0218",
+        "qtdeInicialDeMatriculados": 26,
+        "qtdeAtualDeMatriculados": 26,
+        "trancamentos": 0,
+        "desistencias": 0,
+        "transferencias": 0,
+        "docente": {
+          "RP": "112217",
+          "nome": "Niklaus Wirth"
+        },
+        "agendaDeAulas": [
+          {
+            "dataHoraInicio": "2026-08-20T09:00:00",
+            "dataHoraFim": "2026-08-20T10:40:00",
+            "qtdeHorasAula": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "12509-P",
+    "nome": "Modelagem de Dados",
+    "cargaHorariaTotal": 40,
+    "curso": "Engenharia de Software",
+    "periodo": 4,
+    "anoCalendario": 2026,
+    "semestreCalendario": 2,
+    "turmas": [
+      {
+        "codigo": "0219",
+        "qtdeInicialDeMatriculados": 35,
+        "qtdeAtualDeMatriculados": 35,
+        "trancamentos": 0,
+        "desistencias": 0,
+        "transferencias": 0,
+        "docente": {
+          "RP": "112218",
+          "nome": "Katherine Johnson"
+        },
+        "agendaDeAulas": [
+          {
+            "dataHoraInicio": "2026-08-21T08:00:00",
+            "dataHoraFim": "2026-08-21T09:40:00",
+            "qtdeHorasAula": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "codigo": "12510-P",
+    "nome": "Arquitetura de Computadores",
+    "cargaHorariaTotal": 40,
+    "curso": "Ciência da Computação",
+    "periodo": 3,
+    "anoCalendario": 2026,
+    "semestreCalendario": 2,
+    "turmas": [
+      {
+        "codigo": "0220",
+        "qtdeInicialDeMatriculados": 38,
+        "qtdeAtualDeMatriculados": 38,
+        "trancamentos": 0,
+        "desistencias": 0,
+        "transferencias": 0,
+        "docente": {
+          "RP": "112219",
+          "nome": "Anders Hejlsberg"
+        },
+        "agendaDeAulas": [
+          {
+            "dataHoraInicio": "2026-08-22T10:00:00",
+            "dataHoraFim": "2026-08-22T11:40:00",
+            "qtdeHorasAula": 2
+          }
+        ]
+      }
+    ]
+  }
+]

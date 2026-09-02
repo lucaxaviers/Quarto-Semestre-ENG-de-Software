@@ -1,0 +1,482 @@
+[
+  {
+    "RA": "1234",
+    "nome": "Ayrton Senna",
+    "curso": "Engenharia de Software",
+    "periodo": 4,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12490-P",
+        "disciplinaNome": "Estudos de Bancos de Dados 2 - Prática",
+        "turmaCodigo": "0101",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  },
+  {
+    "RA": "1235",
+    "nome": "Ana Clara Souza",
+    "curso": "Engenharia de Software",
+    "periodo": 4,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12490-P",
+        "disciplinaNome": "Estudos de Bancos de Dados 2 - Prática",
+        "turmaCodigo": "0101",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  },
+  {
+    "RA": "1236",
+    "nome": "Bruno Henrique Lima",
+    "curso": "Engenharia de Software",
+    "periodo": 4,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12490-P",
+        "disciplinaNome": "Estudos de Bancos de Dados 2 - Prática",
+        "turmaCodigo": "0101",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  },
+  {
+    "RA": "1237",
+    "nome": "Camila Ferreira Rocha",
+    "curso": "Engenharia de Software",
+    "periodo": 4,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12490-P",
+        "disciplinaNome": "Estudos de Bancos de Dados 2 - Prática",
+        "turmaCodigo": "0101",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  },
+  {
+    "RA": "1238",
+    "nome": "Diego Martins Alves",
+    "curso": "Engenharia de Software",
+    "periodo": 4,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12490-P",
+        "disciplinaNome": "Estudos de Bancos de Dados 2 - Prática",
+        "turmaCodigo": "0101",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  },
+  {
+    "RA": "2234",
+    "nome": "Eduarda Pereira Nunes",
+    "curso": "Engenharia de Software",
+    "periodo": 4,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12490-P",
+        "disciplinaNome": "Estudos de Bancos de Dados 2 - Prática",
+        "turmaCodigo": "0102",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  },
+  {
+    "RA": "2235",
+    "nome": "Felipe Augusto Ribeiro",
+    "curso": "Engenharia de Software",
+    "periodo": 4,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12490-P",
+        "disciplinaNome": "Estudos de Bancos de Dados 2 - Prática",
+        "turmaCodigo": "0102",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  },
+  {
+    "RA": "2236",
+    "nome": "Giovana Costa Melo",
+    "curso": "Engenharia de Software",
+    "periodo": 4,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12490-P",
+        "disciplinaNome": "Estudos de Bancos de Dados 2 - Prática",
+        "turmaCodigo": "0102",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  },
+  {
+    "RA": "2237",
+    "nome": "Henrique Batista Gomes",
+    "curso": "Engenharia de Software",
+    "periodo": 4,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12490-P",
+        "disciplinaNome": "Estudos de Bancos de Dados 2 - Prática",
+        "turmaCodigo": "0102",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  },
+  {
+    "RA": "2238",
+    "nome": "Isabela Moura Cardoso",
+    "curso": "Engenharia de Software",
+    "periodo": 4,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12490-P",
+        "disciplinaNome": "Estudos de Bancos de Dados 2 - Prática",
+        "turmaCodigo": "0102",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  },
+  {
+    "RA": "3001",
+    "nome": "Lucas Almeida",
+    "curso": "Engenharia de Software",
+    "periodo": 4,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12491-P",
+        "disciplinaNome": "Algoritmos e Estruturas de Dados",
+        "turmaCodigo": "0201",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  },
+  {
+    "RA": "3002",
+    "nome": "Beatriz Costa",
+    "curso": "Engenharia de Software",
+    "periodo": 4,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12492-P",
+        "disciplinaNome": "Programação Web",
+        "turmaCodigo": "0202",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  },
+  {
+    "RA": "3003",
+    "nome": "Gabriel Rocha",
+    "curso": "Ciência da Computação",
+    "periodo": 3,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12493-P",
+        "disciplinaNome": "Banco de Dados I",
+        "turmaCodigo": "0203",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  },
+  {
+    "RA": "3004",
+    "nome": "Larissa Dias",
+    "curso": "Sistemas de Informação",
+    "periodo": 5,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12494-P",
+        "disciplinaNome": "Engenharia de Requisitos",
+        "turmaCodigo": "0204",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  },
+  {
+    "RA": "3005",
+    "nome": "Matheus Nobre",
+    "curso": "Engenharia de Software",
+    "periodo": 5,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12495-P",
+        "disciplinaNome": "Arquitetura de Software",
+        "turmaCodigo": "0205",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  },
+  {
+    "RA": "3006",
+    "nome": "Sofia Andrade",
+    "curso": "Ciência da Computação",
+    "periodo": 4,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12496-P",
+        "disciplinaNome": "Redes de Computadores",
+        "turmaCodigo": "0206",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  },
+  {
+    "RA": "3007",
+    "nome": "João Pedro Vieira",
+    "curso": "Engenharia de Software",
+    "periodo": 5,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12497-P",
+        "disciplinaNome": "Sistemas Operacionais",
+        "turmaCodigo": "0207",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  },
+  {
+    "RA": "3008",
+    "nome": "Carolina Mota",
+    "curso": "Engenharia de Software",
+    "periodo": 6,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12498-P",
+        "disciplinaNome": "Computação Gráfica",
+        "turmaCodigo": "0208",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  },
+  {
+    "RA": "3009",
+    "nome": "Rafael Nascimento",
+    "curso": "Ciência da Computação",
+    "periodo": 5,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12499-P",
+        "disciplinaNome": "Linguagens Formais",
+        "turmaCodigo": "0209",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  },
+  {
+    "RA": "3010",
+    "nome": "Fernanda Silva",
+    "curso": "Sistemas de Informação",
+    "periodo": 5,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12500-P",
+        "disciplinaNome": "Segurança da Informação",
+        "turmaCodigo": "0210",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  },
+  {
+    "RA": "3011",
+    "nome": "Pedro Henrique",
+    "curso": "Ciência da Computação",
+    "periodo": 4,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12501-P",
+        "disciplinaNome": "Teoria dos Grafos",
+        "turmaCodigo": "0211",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  },
+  {
+    "RA": "3012",
+    "nome": "Milena Cunha",
+    "curso": "Engenharia de Software",
+    "periodo": 6,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12502-P",
+        "disciplinaNome": "Estruturas de Dados Avançadas",
+        "turmaCodigo": "0212",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  },
+  {
+    "RA": "3013",
+    "nome": "Vinicius Prado",
+    "curso": "Ciência da Computação",
+    "periodo": 6,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12503-P",
+        "disciplinaNome": "Inteligência Artificial",
+        "turmaCodigo": "0213",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  },
+  {
+    "RA": "3014",
+    "nome": "Júlia Freitas",
+    "curso": "Engenharia de Software",
+    "periodo": 5,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12504-P",
+        "disciplinaNome": "Desenvolvimento Mobile",
+        "turmaCodigo": "0214",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  },
+  {
+    "RA": "3015",
+    "nome": "Enzo Moreira",
+    "curso": "Engenharia de Software",
+    "periodo": 3,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12505-P",
+        "disciplinaNome": "Linguagem de Programação II",
+        "turmaCodigo": "0215",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  },
+  {
+    "RA": "3016",
+    "nome": "Bianca Santos",
+    "curso": "Ciência da Computação",
+    "periodo": 6,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12506-P",
+        "disciplinaNome": "Compiladores",
+        "turmaCodigo": "0216",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  },
+  {
+    "RA": "3017",
+    "nome": "Leonardo Pires",
+    "curso": "Sistemas de Informação",
+    "periodo": 6,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12507-P",
+        "disciplinaNome": "Banco de Dados II",
+        "turmaCodigo": "0217",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  },
+  {
+    "RA": "3018",
+    "nome": "Mariana Cordeiro",
+    "curso": "Ciência da Computação",
+    "periodo": 5,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12508-P",
+        "disciplinaNome": "Processamento de Imagens",
+        "turmaCodigo": "0218",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  },
+  {
+    "RA": "3019",
+    "nome": "Theo Souza",
+    "curso": "Engenharia de Software",
+    "periodo": 4,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12509-P",
+        "disciplinaNome": "Modelagem de Dados",
+        "turmaCodigo": "0219",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  },
+  {
+    "RA": "3020",
+    "nome": "Isabella Araujo",
+    "curso": "Ciência da Computação",
+    "periodo": 3,
+    "matriculas": [
+      {
+        "disciplinaCodigo": "12510-P",
+        "disciplinaNome": "Arquitetura de Computadores",
+        "turmaCodigo": "0220",
+        "anoCalendario": 2026,
+        "semestreCalendario": 2,
+        "situacao": "matriculado"
+      }
+    ]
+  }
+]
